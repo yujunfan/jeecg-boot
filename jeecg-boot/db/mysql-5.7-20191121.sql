@@ -3285,3 +3285,4 @@ CREATE TABLE `test_person`  (
 INSERT INTO `test_person` VALUES ('8ca668defdae47df8649a5477ae08b05', 'admin', '2019-04-12 09:51:37', NULL, NULL, '1', 'zhangdaiscott', 'dsdsd', '2019-04-12 00:00:00', 2);
 
 SET FOREIGN_KEY_CHECKS = 1;
+
